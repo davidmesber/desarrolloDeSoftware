@@ -5,7 +5,7 @@
 - ✅: Done
 - ⏳️: To do
 
----
+## Estructura básica
 #### Producto
 - Precio✅
 - Descuentos ✅
