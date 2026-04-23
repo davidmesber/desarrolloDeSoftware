@@ -1,4 +1,4 @@
-# Notas
+# MEGASUPER - [Enunciado](https://docs.google.com/document/d/1ymC8HYAnxdVQ4hF-AtILktSxfUrcl5xzqM1J2NgA8KU/edit?tab=t.0)
 > Lo que fui anotando a medida que realizaba el ejercicio y completaba los requerimientos.
 
 **Pequeño diccionario**:
